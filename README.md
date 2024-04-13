@@ -10,7 +10,7 @@ console.log(GREETING.toUpperCase());
 ### At work and my own projects i have used:
 
 #### JS
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=61DAFB) ![React Router](https://img.shields.io/badge/React%20Router-white?style=for-the-badge&logo=reactrouter&logoColor=CA4245)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-white?style=for-the-badge&logo=typescript) ![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=61DAFB) ![React Router](https://img.shields.io/badge/React%20Router-white?style=for-the-badge&logo=reactrouter&logoColor=CA4245)
 
 #### Frameworks
 ![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js) ![NextAuth.js](https://img.shields.io/badge/nextauth.js-white?style=for-the-badge&logo=auth0&logoColor=black)

@@ -15,6 +15,9 @@ console.log(GREETING.toUpperCase());
 #### Frameworks
 ![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js) ![NextAuth.js](https://img.shields.io/badge/nextauth.js-white?style=for-the-badge&logo=auth0&logoColor=black)
 
+#### Testing
+![Vitest](https://img.shields.io/badge/vitest-white?style=for-the-badge&logo=vitest) ![Testing Library](https://img.shields.io/badge/testing%20library-white?style=for-the-badge&logo=testinglibrary)
+
 #### CSS
 ![CSS](https://img.shields.io/badge/CSS-1572b6?style=for-the-badge&logo=css3) ![BEM](https://img.shields.io/badge/BEM-black?style=for-the-badge&logo=bem&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![CSS Modules](https://img.shields.io/badge/CSS%20Modules-white?style=for-the-badge&logo=cssmodules&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-712cf9?style=for-the-badge&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/mui-white?style=for-the-badge&logo=mui)
 

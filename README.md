@@ -19,13 +19,13 @@ console.log(GREETING.toUpperCase());
 ![Vitest](https://img.shields.io/badge/vitest-white?style=for-the-badge&logo=vitest) ![Testing Library](https://img.shields.io/badge/testing%20library-white?style=for-the-badge&logo=testinglibrary)
 
 #### CSS
-![CSS](https://img.shields.io/badge/CSS-1572b6?style=for-the-badge&logo=css3) ![BEM](https://img.shields.io/badge/BEM-black?style=for-the-badge&logo=bem&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![CSS Modules](https://img.shields.io/badge/CSS%20Modules-white?style=for-the-badge&logo=cssmodules&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-712cf9?style=for-the-badge&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/mui-white?style=for-the-badge&logo=mui)
+![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css) ![BEM](https://img.shields.io/badge/BEM-black?style=for-the-badge&logo=bem&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![CSS Modules](https://img.shields.io/badge/CSS%20Modules-white?style=for-the-badge&logo=cssmodules&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-712cf9?style=for-the-badge&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/mui-white?style=for-the-badge&logo=mui)
 
 #### API
-![Postman](https://img.shields.io/badge/postman-white?style=for-the-badge&logo=postman) ![Swagger UI](https://img.shields.io/badge/swagger%20ui-white?style=for-the-badge&logo=swagger)
+![SoapUI](https://img.shields.io/badge/soapui-fcdc00?style=for-the-badge) ![Postman](https://img.shields.io/badge/postman-white?style=for-the-badge&logo=postman) ![Swagger UI](https://img.shields.io/badge/swagger%20ui-white?style=for-the-badge&logo=swagger)
 
 #### Package manager
-![NPM](https://img.shields.io/badge/NPM-white?style=for-the-badge&logo=npm)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm)
 
 #### Module bundlers
 ![Vite](https://img.shields.io/badge/Vite-white?style=for-the-badge&logo=Vite) ![Webpack](https://img.shields.io/badge/Webpack-white?style=for-the-badge&logo=Webpack)
@@ -40,7 +40,7 @@ console.log(GREETING.toUpperCase());
 ![ESLint](https://img.shields.io/badge/ESlint-4B32C3?style=for-the-badge&logo=ESlint) ![Prettier](https://img.shields.io/badge/Prettier-1a2b34?style=for-the-badge&logo=Prettier)
 
 #### Databases
-![Firebase](https://img.shields.io/badge/firebase-white?style=for-the-badge&logo=firebase)
+![SQL Developer](https://img.shields.io/badge/sql%20developer-C0533F?style=for-the-badge) ![Firebase](https://img.shields.io/badge/firebase-white?style=for-the-badge&logo=firebase&logoColor=DD2C00)
 
 #### HTML
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
